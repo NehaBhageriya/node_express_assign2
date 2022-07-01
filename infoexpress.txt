@@ -1,0 +1,11 @@
+✨Express JS✨
+1.in the node js express js is used to create the server 
+2.it is the backend web application framework for node .js
+3.it is an open source software
+4. to used the express js we need to install it 
+5. in express js we can also handle the html ,json and simple text .
+using the get request 
+
+✨installation of express js ✨
+    npm install express 
+using above command we install the express js in the system     
